@@ -1,2 +1,3 @@
 This is a new file
 I am adding new line to this file.
+This was edited by new branch
